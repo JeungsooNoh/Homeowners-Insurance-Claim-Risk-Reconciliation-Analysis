@@ -15,7 +15,7 @@ To identify potentially problematic cases where:
 
 ##  Data Sources
 
-1. **Claim Data** (from FEMA OpenFEMA database)
+1. **Claim Data** (from FEMA https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2) 
    - Includes building and contents claims, ZIP code, date, and year of loss
    - Filtered to use only data from 2020–2023
 
